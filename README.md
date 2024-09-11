@@ -1,7 +1,7 @@
 
-# GreenPulse
+# JDBCTransactionManager
 
-GreenPulse is a Java-based console application designed to help users measure and monitor their carbon footprints. By offering features such as account management, real-time tracking of carbon consumption, and analysis tools, GreenPulse aims to empower individuals to make more sustainable choices. The application provides users with insights into their environmental impact and helps them track their carbon footprint over time.
+JDBCTransactionManager is a Java-based console application designed to help the admin to manage the users, in this small project i try to practice maven and the jdbc transcations like commit and rollback
 
 
 ## 🚀 About Me
